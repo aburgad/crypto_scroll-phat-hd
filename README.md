@@ -38,7 +38,10 @@ crontab -e
 
 It will automatically start to scroll when the Pi is restarted.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/qjFf3hSImd0/0.jpg)](https://www.youtube.com/watch?v=qjFf3hSImd0)
+
 ## Links
 
 * Cryptonator API - https://www.cryptonator.com/api
-* Python library for Scroll pHAT HD - https://github.com/pimoroni/scroll-phat-hd
+* Python library for Scroll pHAT HD - https://github.com/pimoroni/scroll-phat-hd'
+* YouTube - https://www.youtube.com/watch?v=qjFf3hSImd0
